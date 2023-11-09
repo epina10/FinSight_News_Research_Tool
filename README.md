@@ -24,12 +24,12 @@ streamlit run main.py
 
 - Initiate the data loading and processing by clicking "Process URLs."
 
-- Observe the system as it performs text splitting, generates embedding vectors, and efficiently indexes them using FAISS.
+- The system will perform text splitting, generate embedding vectors, and efficiently index them using FAISS.
 
-- The embeddings will be stored and indexed using FAISS, enhancing retrieval speed.
+- Remember the embeddings will be stored and indexed using FAISS which will significantly enhance retrieval speed.
 
 - The FAISS index will be saved in a local file path in pickle format for future use.
-- One can now ask a question and get the answer based on those news articles
+- You can now ask a question!!!! AND get the answer based on the news articles urls!
 
 ## Project Structure
 
